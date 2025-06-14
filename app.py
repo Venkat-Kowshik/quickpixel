@@ -23,7 +23,7 @@ from services.erase_foreground import erase_foreground
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="AdSnap Studio",
+    page_title="QuickPixel📸",
     page_icon="🎨",
     layout="wide",
     initial_sidebar_state="expanded"
