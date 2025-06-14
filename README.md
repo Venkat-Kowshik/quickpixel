@@ -1,8 +1,4 @@
-Here is your styled and polished `README.md` with enhanced Markdown formatting, emoji sections, and consistent layout — ideal for GitHub presentation:
 
----
-
-````markdown
 # 🎨 QuickPixel
 
 > **Generate stunning product ads in seconds using AI — powered by Bria & Streamlit**
