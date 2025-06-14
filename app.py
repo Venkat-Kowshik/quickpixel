@@ -137,7 +137,7 @@ def auto_check_images(status_container):
     return False
 
 def main():
-    st.title("AdSnap Studio")
+    st.title("QuickPixel📸")
     initialize_session_state()
     
     # Sidebar for API key
